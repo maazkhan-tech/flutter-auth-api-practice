@@ -4,7 +4,7 @@ A Flutter authentication practice app demonstrating a **complete auth flow** usi
 
 ---
 
-## Screenshots
+## Screenshots:
 
 
 ## Authentication Screens
@@ -239,4 +239,4 @@ This project is open source and available under the [MIT License](LICENSE).
 
 **Your Name**
 - GitHub: [@maazkhan-tech](https://github.com/maazkhan-tech)
-- LinkedIn: [View Profile](https://linkedin.com/in/your-linkedin)
+- LinkedIn: [View Profile](https://linkedin.com/in/maaz-khan-5385bb386)
