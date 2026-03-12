@@ -6,18 +6,22 @@ A Flutter authentication practice app demonstrating a **complete auth flow** usi
 
 ## Screenshots
 
-> _Add your app screenshots here_
-> Place images in `docs/screenshots/` and reference them below:
 
-| Login | Register | Forgot Password |
-|---|---|---|
-| ![Login](docs/screenshots/login.png) | ![Register](docs/screenshots/register.png) | ![Forgot](docs/screenshots/forgot_password.png) |
+## Authentication Screens
+<p align="center">
+  <img src="docs/screenshots/login.png" width="220" height="480" alt="Login Screen"/>
+  <img src="docs/screenshots/register.png" width="220" height="480" alt="Register Screen"/>
+  <img src="docs/screenshots/forgot_password.png" width="220" height="480" alt="Forgot Password Screen"/>
+</p>
 
-| Login OTP | Reset OTP | Change Password |
-|---|---|---|
-| ![Login OTP](docs/screenshots/login_otp.png) | ![Reset OTP](docs/screenshots/reset_otp.png) | ![Change Pass](docs/screenshots/change_password.png) |
+## OTP & Password Management
+<p align="center">
+  <img src="docs/screenshots/login_otp.png" width="220" height="480" alt="Login OTP"/>
+  <img src="docs/screenshots/reset_otp.png" width="220" height="480" alt="Reset OTP"/>
+  <img src="docs/screenshots/change_password.png" width="220" height="480" alt="Change Password"/>
+</p>
 
----
+
 
 ## Features
 
@@ -225,13 +229,13 @@ Feel free to open an [issue](https://github.com/maazkhan-tech/flutter-auth-api-p
 
 ---
 
-## 📄 License
+## License
 
 This project is open source and available under the [MIT License](LICENSE).
 
 ---
 
-## 👨‍💻 Author
+## Author
 
 **Your Name**
 - GitHub: [@maazkhan-tech](https://github.com/maazkhan-tech)
